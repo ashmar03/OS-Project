@@ -22,7 +22,7 @@ int main()
 	}
 	cout<<"Enter total no. of student processes: \n";
 	cin>>n2;
-	cout<<"Enter max wait time for student process: \n";
+	cout<<"Enter max wait time for any process: \n";
 	cin>>wt;
 	int s[n2][2];
 	cout<<"Enter The Student Processes details in order of arrival: \n\n";
